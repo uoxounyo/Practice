@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MedianOfThree_Another", "MedianOfThree_Another.vcxproj", "{650DC603-CB5A-47DB-937E-1CB483A36816}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{650DC603-CB5A-47DB-937E-1CB483A36816}.Debug|x64.ActiveCfg = Debug|x64
+		{650DC603-CB5A-47DB-937E-1CB483A36816}.Debug|x64.Build.0 = Debug|x64
+		{650DC603-CB5A-47DB-937E-1CB483A36816}.Debug|x86.ActiveCfg = Debug|Win32
+		{650DC603-CB5A-47DB-937E-1CB483A36816}.Debug|x86.Build.0 = Debug|Win32
+		{650DC603-CB5A-47DB-937E-1CB483A36816}.Release|x64.ActiveCfg = Release|x64
+		{650DC603-CB5A-47DB-937E-1CB483A36816}.Release|x64.Build.0 = Release|x64
+		{650DC603-CB5A-47DB-937E-1CB483A36816}.Release|x86.ActiveCfg = Release|Win32
+		{650DC603-CB5A-47DB-937E-1CB483A36816}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38EF3032-EB40-4FD5-BA7D-09D7C0EC19D0}
+	EndGlobalSection
+EndGlobal
